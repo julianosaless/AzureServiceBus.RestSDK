@@ -34,5 +34,4 @@ Provide a brief guide on how to use the integration:
 ## Contributing
 Contributions to enhance this integration are welcome. Please follow the standard pull request process and ensure your code adheres to the existing style and structure.
 
-## License
-[Specify License here]
+
