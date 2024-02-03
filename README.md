@@ -1,4 +1,4 @@
-# Project Title: .NET Legacy Integration with Service Bus via REST
+# Project .NET Legacy Integration with Service Bus via REST
 
 ## Description
 This project addresses the unique challenge of integrating a legacy application, developed over 17 years ago, with modern service bus architectures using RESTful APIs. The application is built on an older version of the .NET framework, which lacks support from some contemporary libraries. This integration facilitates seamless communication between the legacy system and newer service bus technologies, ensuring continued functionality and compatibility in a changing technological landscape.
