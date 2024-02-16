@@ -28,6 +28,9 @@ This project addresses the unique challenge of integrating a legacy application,
 | Logs   | ✅    |
 
 ## Examples
+```
+src/Doc
+```
 
 ```
 ﻿using System;
