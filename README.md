@@ -13,5 +13,18 @@ This project addresses the unique challenge of integrating a legacy application,
 ### Dependencies
 - .NET Framework (net 3.0 or higher)
 
+## Features
+
+| Features    | Status |
+| -------- | ------- |
+| Topics and subscription  | ✅   |
+| Batch | ✅   |
+| Duplicate Detection   | ✅    |
+| Scheduled Delivery    | ✅   |
+| Filters and Actions   | ✅    |
+| Namespaces   | ✅    |
+| Senders   | ✅    |
+| Receivers   | ❌    |
+
 
 
