@@ -25,6 +25,7 @@ This project addresses the unique challenge of integrating a legacy application,
 | Namespaces   | ✅    |
 | Senders   | ✅    |
 | Receivers   | ❌    |
+| Logs   | ✅    |
 
 ## Examples
 
